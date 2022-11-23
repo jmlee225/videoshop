@@ -1,6 +1,7 @@
 
 import java.util.*;
 
+
 public class Customer {
 	private String _name;
 	private List<Rental> _rentals;
